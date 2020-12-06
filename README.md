@@ -25,7 +25,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | Day                                                            | Part 1 | Part 2 |
 | :------------------------------------------------------------- | :----: | :----: |
 | [Day 1: Chronal Calibration](src/01/summary.md#readme)         |   ⭐   |   🌟   |
-| [Day 2: Inventory Management System](src/02/summary.md#readme) |        |        |
+| [Day 2: Inventory Management System](src/02/summary.md#readme) |   ⭐   |   🌟   |
 | [Day 3](src/03/summary.md#readme)                              |        |        |
 | [Day 4](src/04/summary.md)                                     |        |        |
 | [Day 5](src/05/summary.md)                                     |        |        |
