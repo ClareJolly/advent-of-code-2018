@@ -23,10 +23,10 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 ## Progress
 
 | Day                                                            | Part 1 | Part 2 |
-| :------------------------------------------------------------- | :----: | :----: |
+| :------------------------------------------------------------- | :----: | :----: | --- |
 | [Day 1: Chronal Calibration](src/01/summary.md#readme)         |   ⭐   |   🌟   |
 | [Day 2: Inventory Management System](src/02/summary.md#readme) |   ⭐   |   🌟   |
-| [Day 3: No Matter How You Slice It](src/03/summary.md#readme)  |        |        |
+| [Day 3: No Matter How You Slice It](src/03/summary.md#readme)  |   ⭐   |   🌟   |     |
 | [Day 4](src/04/summary.md)                                     |        |        |
 | [Day 5](src/05/summary.md)                                     |        |        |
 | [Day 6 ](src/06/summary.md)                                    |        |        |
