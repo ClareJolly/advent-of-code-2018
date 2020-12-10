@@ -51,6 +51,6 @@ In this example, removing all C/c units was best, producing the answer 4.
 
 What is the length of the shortest polymer you can produce by removing all units of exactly one type and fully reacting the result?
 
-[Solution Part 2](part2.js)
+[Solution Part 2](part2.js) // 4684
 
 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄 🎄
